@@ -117,19 +117,19 @@ def run():
 
 2. 打开浏览器，键入 http://localhost:9000/ 可以看到：
 
-   ![1590653093713](C:\Users\evilp\AppData\Roaming\Typora\typora-user-images\1590653093713.png)
+   ![](./assets/overview.png)
 
 3. 点击页面右上角 `+/- metric columns`设置模型评价指标
 
-   ![1590653183648](C:\Users\evilp\AppData\Roaming\Typora\typora-user-images\1590653183648.png)
+   ![](./assets/add_metric.png)
 
 4. 将刚才添加的指标排序查看
 
-   ![1590653333818](C:\Users\evilp\AppData\Roaming\Typora\typora-user-images\1590653333818.png)
+   ![](./assets/sort_metric.png)
 
 5. 点击最好模型，查看其配置参数等信息
 
-   ![1590653386470](C:\Users\evilp\AppData\Roaming\Typora\typora-user-images\1590653386470.png)
+   ![1590653386470](./assets./check_detail.png)
 
 ## 实践
 
