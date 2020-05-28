@@ -129,7 +129,7 @@ def run():
 
 5. 点击最好模型，查看其配置参数等信息
 
-   ![1590653386470](./assets./check_detail.png)
+   ![](./assets/check_detail.png)
 
 ## 实践
 
